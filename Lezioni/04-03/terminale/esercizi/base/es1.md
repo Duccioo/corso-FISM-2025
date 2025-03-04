@@ -11,6 +11,12 @@ Crea una struttura di cartelle per un progetto web che includa le directory "css
     # Creiamo le sottodirectory necessarie
     mkdir css js images
 
+    mkdir css
+    mkdir js
+    mkdir images
+
+    mkdir progetto_web progetto_web/css progetto_web/js progetto/web/images
+
     # Creiamo il file index.html vuoto
     touch index.html
 
