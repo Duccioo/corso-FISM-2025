@@ -13,6 +13,7 @@ Corso di formazione FISM
 
 
 ## Altre risorse utili
+- [Markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
 
 ### Git e Github
 - [git-cheat-sheet]("https://education.github.com/git-cheat-sheet-education.pdf")
