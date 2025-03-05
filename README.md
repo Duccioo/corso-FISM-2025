@@ -15,7 +15,7 @@ Corso di formazione FISM
 ## Altre risorse utili
 
 ### Git e Github
-    - [git-cheat-sheet]("https://education.github.com/git-cheat-sheet-education.pdf")
+- [git-cheat-sheet]("https://education.github.com/git-cheat-sheet-education.pdf")
 
-    - [Altre slide (non fatte da me!)](https://people.cs.dm.unipi.it/limco/2021-22/slides/04-GitHub.pdf)
+- [Altre slide (non fatte da me!)](https://people.cs.dm.unipi.it/limco/2021-22/slides/04-GitHub.pdf)
 
