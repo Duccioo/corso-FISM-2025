@@ -4,6 +4,7 @@ Crea uno script bash chiamato "saluto.sh" che stampi "Ciao, mondo!" e rendilo es
 
 # Risoluzione:
     # Creiamo lo script
+    
     echo '#!/bin/bash
     echo "Ciao, mondo!"' > saluto.sh
 
