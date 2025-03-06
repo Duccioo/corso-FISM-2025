@@ -1,7 +1,5 @@
 // app.js
 function elaboraDati(dati) {
-  debugger; // Il debugger si fermerà qui quando attivato
-
   if (!dati || !dati.length) {
     throw new Error("Dati non validi");
   }
@@ -19,8 +17,14 @@ function elaboraDati(dati) {
 
 // Test
 try {
-  const dati = [5, 15, 8, 20];
-  const risultati = elaboraDati(dati);
+  let dati = [5, 15, 8, 20];
+  let risultati = elaboraDati(dati);
+  console.log("Risultati:", risultati);
+
+  debugger;
+
+  dati = [20, 10, 1, 2];
+  risultati = elaboraDati(dati);
   console.log("Risultati:", risultati);
 
   // Questo causerà un errore

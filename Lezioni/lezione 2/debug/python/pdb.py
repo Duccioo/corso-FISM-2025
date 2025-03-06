@@ -1,9 +1,5 @@
 def funzione_complessa(dati):
     # Inserire breakpoint
-    import pdb
-
-    pdb.set_trace()  # In Python 3.7+: breakpoint()
-
     risultato = []
     for item in dati:
         # Logica complessa
@@ -13,7 +9,11 @@ def funzione_complessa(dati):
 
     return risultato
 
-
+def main():
+    funzione_complessa([1, 2, 3, 4, 5])  # Inserire breakpoint qui
+    funzione_complessa([6, 7, 8, 9, 10])
+if __name__=="__main__":
+    main()
 # Comandi PDB utili:
 # n (next): esegue la linea corrente
 # s (step): entra nelle funzioni chiamate
