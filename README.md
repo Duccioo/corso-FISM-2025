@@ -20,3 +20,5 @@ Corso di formazione FISM
 
 - [Altre slide (non fatte da me!)](https://people.cs.dm.unipi.it/limco/2021-22/slides/04-GitHub.pdf)
 
+### Javascript
+- [altro corso (con slide non mie)](https://security.polito.it/~lioy/01nbe/js.pdf)
