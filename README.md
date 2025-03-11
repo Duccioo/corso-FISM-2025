@@ -22,3 +22,6 @@ Corso di formazione FISM
 
 ### Javascript
 - [altro corso (con slide non mie)](https://security.polito.it/~lioy/01nbe/js.pdf)
+
+### API
+- [public-apis](https://github.com/public-apis/public-apis)
