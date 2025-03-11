@@ -1,0 +1,6 @@
+2025-03-05 15:45:29,466 - root - DEBUG - Funzione chiamata con: [10, 20, 30]
+2025-03-05 15:45:29,466 - root - DEBUG - Somma calcolata: 60
+2025-03-05 15:45:29,466 - root - INFO - Media calcolata: 20.0
+2025-03-05 15:47:06,993 - root - DEBUG - Funzione chiamata con: [10, 20, 30]
+2025-03-05 15:47:06,993 - root - DEBUG - Somma calcolata: 60
+2025-03-05 15:47:06,993 - root - INFO - Media calcolata: 20.0
