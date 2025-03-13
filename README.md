@@ -1,6 +1,11 @@
 # corso-FISM
 Corso di formazione FISM
 
+## CODE JAM DISPONIBILE!!!!
+- Se vuoi partecipare alla Alcohol JAM e presentare un progetto vai a questo link
+    - [LINK ALCOHOL JAM](https://alcohol-jam-2025.duccio.page/index.html)
+
+
 ## Link a google drive: 
 - lezione 1 (04/03 - 05/03) [LINK](https://drive.google.com/drive/folders/1lGJ97YOFWmsuM-1GzQKTq-imcdS7WzVq?usp=sharing):
     - Introduzione al terminale
