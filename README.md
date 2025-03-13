@@ -2,11 +2,24 @@
 Corso di formazione FISM
 
 ## CODE JAM DISPONIBILE!!!!
-- Se vuoi partecipare alla Alcohol JAM e presentare un progetto vai a questo link
-    - [LINK ALCOHOL JAM](https://alcohol-jam-2025.duccio.page/index.html)
+
+Se vuoi partecipare alla Alcohol JAM e presentare un progetto vai a questo link:
+
+- [LINK ALCOHOL JAM](https://alcohol-jam-2025.duccio.page/index.html)
+
+Per compilare il modulo e caricare il progetto è necessario:
+
+- il titolo del progetto
+- Link al Github del progetto (**deve essere una repository pubblica**)
+- **Basta 1 email**
+- una breve descrizione del progetto
+- un'immagine o screenshot del progetto
+- Nel README della repository del progetto aggiungere tutte le informazioni per replicare il progetto e aggiungere anche i nomi di chi ha contribuito al progetto
 
 
-## Link a google drive: 
+
+## Link a google drive:
+
 - lezione 1 (04/03 - 05/03) [LINK](https://drive.google.com/drive/folders/1lGJ97YOFWmsuM-1GzQKTq-imcdS7WzVq?usp=sharing):
     - Introduzione al terminale
     - Git e Github 
@@ -14,7 +27,14 @@ Corso di formazione FISM
 
 - lezione 2 (05/03) [LINK](https://drive.google.com/drive/folders/1Kx6jLId2YpHnVyflokmBEfTAsWh4xC10?usp=sharing):
     - Debug
-    - Unit Test
+
+- lezione 3 (11/03) [LINK](https://drive.google.com/drive/folders/15pqlxttW4v0XPvp5M8AIxNlm2R_Elb_M?usp=sharing):
+    - Ripasso Javascript
+
+- lezione 4 (18/03):
+    - unit test
+    - ripasso react
+
 
 
 ## Altre risorse utili
