@@ -1,9 +1,9 @@
-# corso-FISM
+# Corso FISM programmazione 03/2025
 Corso di formazione FISM
 
-## CODE JAM DISPONIBILE!!!!
+# NEWS: ALCOHOL CODE JAM DISPONIBILE!!!!
 
-Se vuoi partecipare alla Alcohol JAM e presentare un progetto vai a questo link:
+Se vuoi partecipare alla **Alcohol JAM** e presentare un progetto vai a questo link:
 
 - [LINK ALCOHOL JAM](https://alcohol-jam-2025.duccio.page/index.html)
 
@@ -14,7 +14,8 @@ Per compilare il modulo e caricare il progetto è necessario:
 - **Basta 1 email**
 - una breve descrizione del progetto
 - un'immagine o screenshot del progetto
-- Nel README della repository del progetto aggiungere tutte le informazioni per replicare il progetto e aggiungere anche i nomi di chi ha contribuito al progetto
+
+Nel README della repository del progetto aggiungere tutte le informazioni per replicare il progetto e aggiungere anche i nomi di chi ha contribuito al progetto
 
 
 
