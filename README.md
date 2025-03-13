@@ -1,9 +1,9 @@
 # Corso FISM programmazione 03/2025
 Corso di formazione FISM
 
-# NEWS: ALCOHOL CODE JAM DISPONIBILE!!!!
+# NEWS: CODE JAM DISPONIBILE!!!!
 
-Se vuoi partecipare alla **Alcohol JAM** e presentare un progetto vai a questo link:
+Se vuoi partecipare alla **Alcohol JAM** e presentare un _progettino_ vai a questo link:
 
 - [LINK ALCOHOL JAM](https://alcohol-jam-2025.duccio.page/index.html)
 
