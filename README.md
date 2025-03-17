@@ -48,7 +48,7 @@ Nel README della repository del progetto aggiungere tutte le informazioni per re
 
 ### Javascript
 - [altro corso (con slide non mie)](https://security.polito.it/~lioy/01nbe/js.pdf)
-- [corso in inglese approfondito (dalle basi ad avanzato)](https://javascript.info/)
+- [corso approfondito (dalle basi ad avanzato)](https://it.javascript.info/)
 
 ### API
 - [public-apis](https://github.com/public-apis/public-apis)
