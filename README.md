@@ -52,3 +52,7 @@ Nel README della repository del progetto aggiungere tutte le informazioni per re
 
 ### API
 - [public-apis](https://github.com/public-apis/public-apis)
+
+
+### React
+- [progettino semplice per introduzione a react](https://github.com/adrianhajdin/react-movies)
