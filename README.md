@@ -56,3 +56,16 @@ Nel README della repository del progetto aggiungere tutte le informazioni per re
 
 ### React
 - [progettino semplice per introduzione a react](https://github.com/adrianhajdin/react-movies)
+
+- Estensioni consigliate:
+
+    - ES7+ React/Redux/React-Native snippets: Snippet di codice React
+
+    - Prettier: Formattazione automatica del codice
+
+    - ESLint: Linting per JavaScript e JSX
+
+    - Auto Rename Tag: Rinomina automaticamente i tag corrispondenti
+
+    - Path Intellisense: Completamento automatico dei percorsi
+    Bracket Pair Colorizer: Colora le parentesi corrispondenti
