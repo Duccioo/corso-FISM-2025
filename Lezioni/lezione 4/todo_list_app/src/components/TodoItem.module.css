@@ -1,0 +1,41 @@
+  .item {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    transition: background-color 0.2s;
+  }
+  
+  .item:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .completed {
+    opacity: 0.6;
+    text-decoration: line-through;
+  }
+  
+  .checkbox {
+    margin-right: 10px;
+  }
+  
+  .text {
+    flex-grow: 1;
+  }
+  
+  .deleteBtn {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .deleteBtn:hover {
+    background-color: #ff3333;
+  }
+  

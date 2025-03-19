@@ -1,0 +1,32 @@
+{
+  "coord": {"lon": 11.4, "lat": 43.2167},
+  "weather": [
+    {"id": 800, "main": "Clear", "description": "clear sky", "icon": "01d"}
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 13.43,
+    "feels_like": 11.79,
+    "temp_min": 13.43,
+    "temp_max": 13.43,
+    "pressure": 1026,
+    "humidity": 37,
+    "sea_level": 1026,
+    "grnd_level": 994
+  },
+  "visibility": 10000,
+  "wind": {"speed": 7.33, "deg": 62, "gust": 10.21},
+  "clouds": {"all": 0},
+  "dt": 1742307292,
+  "sys": {
+    "type": 2,
+    "id": 2008398,
+    "country": "IT",
+    "sunrise": 1742275276,
+    "sunset": 1742318620
+  },
+  "timezone": 3600,
+  "id": 3166546,
+  "name": "Province of Siena",
+  "cod": 200
+}
