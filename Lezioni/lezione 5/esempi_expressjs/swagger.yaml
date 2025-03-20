@@ -1,0 +1,93 @@
+openapi: 3.0.0
+info:
+  title: Express.js API Example
+  description: A simple API built with Express.js
+  version: 1.0.0
+servers:
+  - url: http://localhost:3001
+    description: Local development server
+paths:
+  /:
+    get:
+      summary: Root endpoint
+      description: Returns a simple hello world message
+      responses:
+        '200':
+          description: A JSON object with a welcome message
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: "Hello World!"
+  /blog/{numero_blog}:
+    get:
+      summary: Get blog post by ID
+      description: Returns a blog post with the specified ID along with query parameters
+      parameters:
+        - in: path
+          name: numero_blog
+          required: true
+          schema:
+            type: string
+          description: The blog post ID
+        - in: query
+          name: any
+          schema:
+            type: object
+          description: Any query parameters (optional)
+          required: false
+      responses:
+        '200':
+          description: A JSON object with blog post information
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  post:
+                    type: string
+                    example: "123"
+                  message:
+                    type: string
+                    example: "Hello World!"
+                  query:
+                    type: object
+                    example: {"category": "tech"}
+  /add:
+    get:
+      summary: Add two numbers
+      description: Takes two numbers as query parameters and returns their sum
+      parameters:
+        - in: query
+          name: a
+          required: true
+          schema:
+            type: number
+          description: First number to add
+        - in: query
+          name: b
+          required: true
+          schema:
+            type: number
+          description: Second number to add
+      responses:
+        '200':
+          description: A JSON object with the sum of the two numbers
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: "Hello World!"
+                  query:
+                    type: object
+                    example: {"a": "5", "b": "3"}
+                  sum:
+                    type: number
+                    example: 8
+

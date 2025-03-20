@@ -31,3 +31,4 @@ models/*/logs/*.npy
 models/*/*.pth
 data
 .qodo
+node_modules

@@ -1,11 +1,25 @@
 # Corso FISM programmazione 03/2025
-Corso di formazione FISM
+Corso di formazione FISM (marzo 2025)
 
-# NEWS: CODE JAM DISPONIBILE!!!!
+## Informazioni corso
+- **Docente**: [Duccio Meconcelli](www.duccio.me)
 
-Se vuoi partecipare alla **Alcohol JAM** e presentare un _progettino_ vai a questo link:
+### Argomenti trattati
+- **Terminale**
+- **Git e Github**
+- **Debug**
+- Ripasso con esercizi di **Javascript** e **React**
+- Introduzione a **Express.js** e **OpenAPI**
+
+
+## Alcohol JAM
+
+**Alchohol Jam conclusa!**
+I progetti sono visionabili a questo link:
 
 - [LINK ALCOHOL JAM](https://alcohol-jam-2025.duccio.page/index.html)
+<details>
+<summary>Altre info della code jam</summary>
 
 Per compilare il modulo e caricare il progetto è necessario:
 
@@ -16,10 +30,11 @@ Per compilare il modulo e caricare il progetto è necessario:
 - un'immagine o screenshot del progetto
 
 Nel README della repository del progetto aggiungere tutte le informazioni per replicare il progetto e aggiungere anche i nomi di chi ha contribuito al progetto
+</details>
 
 
-
-## Link a google drive:
+## Link per le slide con google drive:
+Le slide delle lezioni sono dispobili sia su github che con google drive.
 
 - lezione 1 (04/03 - 05/03) [LINK](https://drive.google.com/drive/folders/1lGJ97YOFWmsuM-1GzQKTq-imcdS7WzVq?usp=sharing):
     - Introduzione al terminale
@@ -32,7 +47,7 @@ Nel README della repository del progetto aggiungere tutte le informazioni per re
 - lezione 3 (11/03) [LINK](https://drive.google.com/drive/folders/15pqlxttW4v0XPvp5M8AIxNlm2R_Elb_M?usp=sharing):
     - Ripasso Javascript
 
-- lezione 4 (18/03):
+- lezione 4 (18/03)[LINK]():
     - unit test
     - ripasso react
 
@@ -42,9 +57,8 @@ Nel README della repository del progetto aggiungere tutte le informazioni per re
     - OpenAPI
 
 
-
 ## Altre risorse utili
-- [Markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
+- [Estensione VSCODE Markdown preview](https://marketplace.visualstudio.com/items?itemName=bierner.github-markdown-preview)
 
 ### Git e Github
 - [git-cheat-sheet](https://education.github.com/git-cheat-sheet-education.pdf)
@@ -63,7 +77,7 @@ Nel README della repository del progetto aggiungere tutte le informazioni per re
 - [progettino per introduzione a react](https://github.com/adrianhajdin/react-movies)
 
 <details>
-<summary>Estensioni consigliate</summary>
+<summary>Estensioni consigliate REACT</summary>
 
 - **ES7+ React/Redux/React-Native snippets**: Snippet di codice React
 
