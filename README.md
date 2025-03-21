@@ -17,7 +17,7 @@ Corso di formazione FISM (marzo 2025)
 **Alchohol Jam conclusa!**
 I progetti sono visionabili a questo link:
 
-- [LINK ALCOHOL JAM](https://alcohol-jam-2025.duccio.page/index.html)
+- [LINK ALCOHOL JAM](https://duccioo.github.io/Alcohol-JAM-2025/)
 <details>
 <summary>Altre info della code jam</summary>
 
