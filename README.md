@@ -34,20 +34,22 @@ Nel README della repository del progetto aggiungere tutte le informazioni per re
 
 
 ## Link per le slide con google drive:
-Le slide delle lezioni sono dispobili sia su github che con google drive.
+**Le slide delle lezioni sono dispobili sia su github che con google drive.**
 
 - lezione 1 (04/03 - 05/03) [LINK](https://drive.google.com/drive/folders/1lGJ97YOFWmsuM-1GzQKTq-imcdS7WzVq?usp=sharing):
     - Introduzione al terminale
-    - Git e Github 
+    
  
 
 - lezione 2 (05/03) [LINK](https://drive.google.com/drive/folders/1Kx6jLId2YpHnVyflokmBEfTAsWh4xC10?usp=sharing):
+    - Git e Github 
     - Debug
+    
 
 - lezione 3 (11/03) [LINK](https://drive.google.com/drive/folders/15pqlxttW4v0XPvp5M8AIxNlm2R_Elb_M?usp=sharing):
     - Ripasso Javascript
 
-- lezione 4 (18/03)[LINK]():
+- lezione 4 (18/03)[LINK](https://drive.google.com/drive/folders/18DkVmrsjS8VRnRSAxc7-V74DuRwAHxfE?usp=sharing):
     - unit test
     - ripasso react
 
